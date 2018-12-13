@@ -1,4 +1,4 @@
-### [waterdropinmvn](https://github.com/peopleindreamdontsleep/waterdropinmvn)地址
+### [waterdropinmvn]
 
 本项目是将[waterdrop](https://github.com/InterestingLab/waterdrop)项目作修改，将sbt改为maven，并能够实现local调试。
 
